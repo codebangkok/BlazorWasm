@@ -1,4 +1,4 @@
-# BlazorWasm
+# BlazorWasm (Live)
 
 Live! Code 35: Blazor WebAssembly & PWA
 
